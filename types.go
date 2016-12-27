@@ -1,7 +1,7 @@
 package figa
 
 // Firebase App API conf
-type FAppConf struct {
+type FApp struct {
 	ProjectId string
 	ProjectKey string
 }
